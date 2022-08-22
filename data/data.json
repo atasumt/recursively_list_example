@@ -1,0 +1,25 @@
+{
+    "city": [
+        {
+            "id": "0",
+            "city_name": "Elazığ",
+            "parent_recursively": 
+                {
+                    "paren_id": "0",
+                    "county_name": "Merkez",
+                    "parent_recursively":
+                        {
+                            "parent_id": "0",
+                            "county_name": "Harput",
+                            "parent_recursively": 
+                                {
+                                    "parent_id": "0",
+                                    "county_name": "Deneme",  
+                                    "parent_recursively": null 
+                                }
+                               
+                        }   
+                }
+        }
+    ]
+}
